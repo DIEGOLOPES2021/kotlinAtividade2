@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">imc Va-A</string>
+    <string name="imc_title">IMC</string>
+    <string name="hint_peso">Informe o seu Peso</string>
+    <string name="hint_altura">Informe sua Altura</string>
+    <string name="button_calcular_imc">Calcular seu Imc</string>
+</resources>
